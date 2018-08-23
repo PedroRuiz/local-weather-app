@@ -3,8 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
-};
+  production: false,
+  appId: 'f73eed65cd9afd12f27798e8dd24c915',
+  baseUrl: 'http://',
+}
 
 /*
  * In development mode, for easier debugging, you can ignore zone related error
